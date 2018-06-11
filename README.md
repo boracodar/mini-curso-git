@@ -2,4 +2,6 @@
 
 Respositório de exemplo que estamos usando no **Mini-curso de Git & GitHub**
 
-[lucascaton.com.br](https://www.lucascaton.com.br/)
+### Mais informações:
+
+https://www.lucascaton.com.br/2018/06/10/mini-curso-sobre-git-github/
